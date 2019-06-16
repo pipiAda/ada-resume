@@ -33,13 +33,13 @@ description: 精选项目
 
 ## 2018 年
 
-### **配电箱监控测距装置** 
+### **配电箱监控测距装置**
 
 高三暑假期间，我在广东正超电气有限公司实习，完成了配电箱监控测距装置项目。
 
 项目基于 Arduino，结合超声波、红外激光、摄像头等传感器，对配电箱的对接进行校正，将申请实用新型专利并投入生产。\(企业项目，未公开源代码\)
 
-### **净水器人体感应装置** 
+### **净水器人体感应装置**
 
 基于 Arduino，为家用净水器加装人体感应等传感器，并接入智能家居，实现联动。本项目设计于2018年8月暑假期间。\(企业项目，未公开源代码\)
 
@@ -49,35 +49,35 @@ description: 精选项目
 
 ## 2017 年
 
-### [**Colorms**](https://github.com/linyuxuanlin/CASTIC) 
+### [**Colorms**](https://github.com/linyuxuanlin/CASTIC)
 
 基于 Arduino 平台对传统家具的无损智能化升级套装，无损化、低成本升级智能家居，设计于科创项目期间。
 
-### [**Wight**](https://github.com/linyuxuanlin/Wight) 
+### [**Wight**](https://github.com/linyuxuanlin/Wight)
 
 于云平台的去线缆化照明系统，让路灯自给自足，无需线缆，统一智能控制，适用于农村、山区等不方便铺设路灯的地区，设计于2017年7月 Hack.init\(\) 创客马拉松。
 
-### [**Deskper**](https://github.com/linyuxuanlin/Deskper) 
+### [**Deskper**](https://github.com/linyuxuanlin/Deskper)
 
 智能课桌盒子项目，给普通课桌加上各种实用的功能，设计于2017年7月高校科学营智创荟活动。
 
-### [**专利申请**](https://github.com/linyuxuanlin/CASTIC/tree/master/%E4%B8%93%E5%88%A9%E7%9B%B8%E5%85%B3) 
+### [**专利申请**](https://github.com/linyuxuanlin/CASTIC/tree/master/专利相关)
 
 智能家居专利。专利号 `201720097276.5`
 
 ## 2016 年
 
-### [**辐射工作站**](https://radiastu.com) 
+### [**辐射工作站**](https://radiastu.com)
 
 基于 Pages 静态页面及 Hexo 框架搭建的个人网站，托管于 GitHub 和 Coding。
 
-### **基于 mxl90614 的配电箱测温装置** 
+### **基于 mxl90614 的配电箱测温装置**
 
 高一暑假期间，我在广东正超电气有限公司实习，参与设计了红外测温系统，实现了多点定位监测配电箱内电线接口的温度，过温自动报警的功能。设计于2016年暑假，该项目现已申请了国家实用新型专利。
 
 ## 2015 年
 
-### **Robocar** 
+### **Robocar**
 
 机械臂小车。将6自由度机械臂加装在小车上，实现通过蓝牙、WiFi遥控夹持、遥控等功能。设计于2015年2月至4月。
 

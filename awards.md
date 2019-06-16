@@ -14,7 +14,7 @@ description: 获奖经历
 
 **三等奖** ，潮汕星河奖（科技类个人奖项）
 
-**专利申请** ，[智能家居专利](https://github.com/linyuxuanlin/CASTIC/tree/master/%E4%B8%93%E5%88%A9%E7%9B%B8%E5%85%B3)
+**专利申请** ，[智能家居专利](https://github.com/linyuxuanlin/CASTIC/tree/master/专利相关)
 
 **优胜奖** ，青少年高校科学营智创荟活动（重庆大学）
 
@@ -22,11 +22,11 @@ description: 获奖经历
 
 ## 2016 年
 
- **一等奖** ，广东省中小学生创客大赛
+**一等奖** ，广东省中小学生创客大赛
 
- **一等奖** ，第 32 届汕头市青少年科技创新大赛
+**一等奖** ，第 32 届汕头市青少年科技创新大赛
 
 **一等奖** ，汕头市中小学生创客大赛
 
- **年度编辑选择奖** ，入选 DF 创客社区 [2016年度精华项目](http://weixin.drip.im/form/statistics/6bcba4ee-9032-420f-b7b2-1e189e03c794?special=185552)
+**年度编辑选择奖** ，入选 DF 创客社区 [2016年度精华项目](http://weixin.drip.im/form/statistics/6bcba4ee-9032-420f-b7b2-1e189e03c794?special=185552)
 
