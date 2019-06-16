@@ -24,8 +24,7 @@ Funkit 是一个 STEAM 教育的项目，软件基于 Arduino 和 Scratch ,硬�
 
 ### 网站建设
 
-我搭建了个人知识库：  
-个人简历网站：
+用 Gitbook 搭建了个人简历网站。
 
 ## 
 
