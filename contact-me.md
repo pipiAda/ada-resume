@@ -6,6 +6,7 @@ description: 联系我
 
 
 
+* **Email：**824676271@qq.com
 * **Telegram**：[https://t.me/linyuxuanlin](https://t.me/linyuxuanlin)
 * **WeChat**：linyuxuanlin
 * **GitHub**：linyuxuanlin
