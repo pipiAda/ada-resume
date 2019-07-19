@@ -6,6 +6,10 @@ description: 精选项目
 
 ## 2019 年
 
+### AIO-Care 智慧助老管家
+
+此项目完成于 THE Hack 2019 创客马拉松比赛，作品基于主动学习模型，服务于居家养老。作品获得第 8 名和 Ruff 单项奖，项目地址（包含路演 PPT 及获奖证书）：[https://github.com/linyuxuanlin/Project-of-THE-Hack](https://github.com/linyuxuanlin/Project-of-THE-Hack)
+
 ### 3D 建模大赛
 
 大一期间，我参加学校的 3D 建模大赛校内选拔赛，最终获得全校 18 强的成绩。
